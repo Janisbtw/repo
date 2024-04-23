@@ -1,36 +1,144 @@
+Package: de.janis.discordprovider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.discordprovider_1.0_iphoneos-arm.deb
+Size: 16206
+MD5sum: 42f261336af6ffc3bb4fe6e9598146aa
+SHA1: 7b9e09e1588f9b2de2e0fd6aaeadd02bb4887a5b
+SHA256: f22dd5528d3b40c4f3eb74ff80f2928db731d78e1fecc157f24235d85e7bcb46
+SHA512: e74a9fd7243cd9c87fa2e9c9f39fe3671418036d1af1d8cd15bdf561d147bff03965640ac2fc61e30b68f061cbbf5fb28b60bec40219010627f14a41efaba5a0
+Description: This is a plugin for providing Discord profile pictures to Glance
+Name: discordprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
+
+Package: de.janis.discordprovider
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.discordprovider_1.0_iphoneos-arm64.deb
+Size: 16276
+MD5sum: e0fce0a3019b1891e4b6b4525e74f77c
+SHA1: 2a8dc36aa433d0a08452cb3bd0ed34bc9c3f9ad5
+SHA256: bc96e91aaea6a26627e83ba361498ec76f0cb7b83eacb8316d5a66e26ad18e47
+SHA512: ec9281876c152ae51518451a9163c5b4564de6ab7e4f73c8e769467367cd1c99622cc383e97efd3735b51ec1d03a731ad966da23c2c69b4813c9ef0a1c015a7e
+Description: This is a plugin for providing Discord profile pictures to Glance
+Name: discordprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
+
+Package: de.janis.imessageprovider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.imessageprovider_1.0_iphoneos-arm.deb
+Size: 19990
+MD5sum: b9d37dbbea31db1df2e56311960e8c3c
+SHA1: 5346b06beef4621cad24db2815478bf9e79e5574
+SHA256: 29c61e5e08779b17c4315dccfd84d6304d58343a4a2e5d8329846bde8fb8f3e4
+SHA512: 61e2155a5dc5c42747bc1fe8680bd6e3cde231644541003b5ec6011d1e4420bc7987ecb421c6e9ffe482088d2c849fa1fc193f8655dafbf051be1e4f6e308c02
+Description: This is a plugin for providing iMessage profile pictures to Glance
+Name: imessageprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.imessageprovider
+
+Package: de.janis.imessageprovider
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.imessageprovider_1.0_iphoneos-arm64.deb
+Size: 20054
+MD5sum: 33ec3d8e3f01d15c26a49d3dc8d678b5
+SHA1: f2c0e12852c972b1c6ef7a78820265fc31182023
+SHA256: 64acdcde82ad0a8a9988a6b9da2276532ebb11115468d99e24bfa375dfe27293
+SHA512: 3fb4d0ef1d25a600bcc4d797583bbf3574f07a0e1167f3ac26eae9f943885f01b1236527934699802ea274d7579e78b79b1570b7d6bca471a5fe244803fff166
+Description: This is a plugin for providing iMessage profile pictures to Glance
+Name: imessageprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.imessageprovider
+
 Package: de.janis.instagramprovider
 Architecture: iphoneos-arm
-Version: 0.0.2
+Version: 1.0
 Section: Tweaks
 Maintainer: janis
 Installed-Size: 336
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), de.janis.glance
-Filename: ./debians/de.janis.instagramprovider_0.0.2_iphoneos-arm.deb
-Size: 18566
-MD5sum: 83c4a0d228a910ca1803f4b6b4f02a15
-SHA1: 10034758a52f12802a60b36b7e9bb04afc286e12
-SHA256: 39f5461be0463e2ac39170f9682a41d9322d3e694c3826fe04a14d6f522790af
-SHA512: 59b8b58be3ad44fb94505d5072fcf3919fca557dc69aafe781ba02bcc7900df8dec3d5c719c17be429e728c35a09f0849937c8bc8f229307004d46398b0030d7
-Description: This is a plugin for providing instagram profile pictures to Glance
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), de.janis.glance
+Filename: ./debians/de.janis.instagramprovider_1.0_iphoneos-arm.deb
+Size: 18580
+MD5sum: 524a5d7beedf9263484e1f2b32d7795b
+SHA1: 080465a4c340a64aae4debecd4e5ae58b26980f7
+SHA256: 397a2748014e171bb022ef6d9e07c3ae6dec93a74b671fb3ef48c4bd9d7dba5b
+SHA512: db5877969e876bcb9aa92d008930e77ba8340823a80557b44c3aadc4d98513e48d1bfd00e842b0e9e2b42947efd37263bdd7de4f1f443ea4eb407dc7bf3ff6ce
+Description: This is a plugin for providing Instagram profile pictures to Glance
 Name: instagramprovider
 Author: janis
 Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.instagramprovider
 
 Package: de.janis.instagramprovider
 Architecture: iphoneos-arm64
-Version: 0.0.2
+Version: 1.0
 Section: Tweaks
 Maintainer: janis
 Installed-Size: 336
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), de.janis.glance
-Filename: ./debians/de.janis.instagramprovider_0.0.2_iphoneos-arm64.deb
-Size: 18626
-MD5sum: 2706fe6c7935df278451f7e49fd61f8c
-SHA1: d3766e405d1570e0696a47028a9da3fe86b3468c
-SHA256: 65f00f343ae36973a9ef8b395f20e089f1f6885433023b0a9818f60d9ae2e45d
-SHA512: 59d9d4c33aa4e9f52f2f86c21deddc1372717375ed6df5a6a0e09857f7cf708d1cf4325425a010f68cf780cdfa44f7332dd89e8f8b872638466d2ef2be9562ff
-Description: This is a plugin for providing instagram profile pictures to Glance
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), de.janis.glance
+Filename: ./debians/de.janis.instagramprovider_1.0_iphoneos-arm64.deb
+Size: 18648
+MD5sum: 8328e4437926647852e104e03d301246
+SHA1: 861ce38aaa8c8f930456d0253edbbdd196fef1d1
+SHA256: 193e68de6b42102f12496f3a65622edab993552d945b24ad7d43dc8aa27c1372
+SHA512: 55b50a7d43911bfb34ffddac9b3e5646dd2f7d265bfbc0ec5ece2a1072f9cce69a91861211a480b28a1c6ca92900db5c0a64d03799693f89be721f935aabeb7e
+Description: This is a plugin for providing Instagram profile pictures to Glance
 Name: instagramprovider
 Author: janis
 Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.instagramprovider
+
+Package: de.janis.whatsappprovider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), de.janis.glance
+Filename: ./debians/de.janis.whatsappprovider_1.0_iphoneos-arm.deb
+Size: 23112
+MD5sum: de3c8832cd631f8346bed955da5d0ff8
+SHA1: d49b47752204b6c842b0d2dfedfe981903731eb9
+SHA256: 3c4d71ca0cb0d873821d0302946985de0d29d46fa46457008963a3e46ff388d0
+SHA512: f63b6b6a5d0b708e2853e5082810ebff9057fdfdc5a16f2df7ae163fb6d125ba92f0f4bb1b9a0b4a9708134770672b2d0e8cff002bca1f2978cc9e4d081f989f
+Description: This is a plugin for providing WhatsApp profile pictures to Glance
+Name: whatsappprovider
+Author: janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.whatsappprovider
+
+Package: de.janis.whatsappprovider
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), de.janis.glance
+Filename: ./debians/de.janis.whatsappprovider_1.0_iphoneos-arm64.deb
+Size: 23162
+MD5sum: 9a12b35d7172e16c2e84891c34ebc6a0
+SHA1: 89ffd81ce1fb0d3e41bc08e297bfb56b7e73c9e2
+SHA256: 6d7fd26edf530969351afe1a28467070f0ef8868a8a88c55d385517d6cb083b4
+SHA512: d27d2496a44881bacd909d8b8cdbde066386d5adc69588d4cb4a0dc1e6c701baccc2e7b8d90f3261c222782288356247635e777c867e31d628a1aff1fca33984
+Description: This is a plugin for providing WhatsApp profile pictures to Glance
+Name: whatsappprovider
+Author: janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.whatsappprovider
 

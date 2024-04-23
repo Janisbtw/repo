@@ -1,6 +1,6 @@
 <package>
-	<id>de.janis.instagramprovider</id>
-	<name>Instagram Provider</name>
+	<id>de.janis.discordprovider</id>
+	<name>Discord Provider</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 		<package>de.janis.glance</package>
 	</dependencies>
-	<shortDescription>This is a plugin for providing Instagram profile pictures to Glance</shortDescription>
+	<shortDescription>This is a plugin for providing Discord profile pictures to Glance</shortDescription>
 	<descriptionlist>
 	</descriptionlist>
 	<screenshots></screenshots>
