@@ -1,0 +1,36 @@
+Package: de.janis.instagramprovider
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), de.janis.glance
+Filename: ./debians/de.janis.instagramprovider_0.0.1_iphoneos-arm.deb
+Size: 18582
+MD5sum: 9869fa304eb905dc779350817eea4175
+SHA1: 4a52988496aef7c50389297b29efcf1a0892bca7
+SHA256: bfabca772854a34ebc0b75e94b3838bf6b14fece178c61b4dd17b8152057c4fd
+SHA512: effac51dbfdb74a2de076ae12cbb7d9ebe3bcc82eae0e484e4d46e03f421659f70c53432d5470f8cc8c075210154eb1cf715c886f96139aa6337a1f32b3e10b6
+Description: An awesome Orion tweak!
+Name: instagramprovider
+Author: janis
+Depiction: https://username.github.io/repo/depictions/web/?p=de.janis.instagramprovider
+
+Package: de.janis.instagramprovider
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), de.janis.glance
+Filename: ./debians/de.janis.instagramprovider_0.0.1_iphoneos-arm64.deb
+Size: 18624
+MD5sum: f2adf2e60a5e9e9ad68aedbdfabc36ee
+SHA1: cf8ac9cf802767067962762b1d74928110429781
+SHA256: 811c33918881bdde8137eaf1cb78dcd77e30e4b1b4678e09b8444c3a3417a4b7
+SHA512: 8049300f88b078df2c7efeba2063656db9f9440b6d174d5701e21bbc8660879d6d7773364d918a2a24ac4792a6f5c230a67acdcf8b7afa6c0d91c29ab5ead121
+Description: An awesome Orion tweak!
+Name: instagramprovider
+Author: janis
+Depiction: https://username.github.io/repo/depictions/web/?p=de.janis.instagramprovider
+

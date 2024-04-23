@@ -1,0 +1,26 @@
+<package>
+	<id>de.janis.instagramprovider</id>
+	<name>Instagram Provider</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>de.janis.glance</package>
+	</dependencies>
+	<shortDescription>This is a plugin for providing instagram profile pictures to Glance</shortDescription>
+	<descriptionlist>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog></changelog>
+	<links>
+		<link>
+			<name>GitHub</name>
+			<url>https://github.com/Janisbtw</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

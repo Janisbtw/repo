@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Codename: janis
+Components: main
+Date: Tue, 23 Apr 2024 15:55:50 +0000
+Description: Awesome repo for personal use
+Label: Janis' Repo
+Origin: Janis' Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ a0cb2cd4620cdd86934b97d00ff8cd3f             1502 Packages
+ dd3e576ae35988216d10cf4d27b0fede              790 Packages.bz2
+ c26e6bca23a884de116bd2a6ac3c3c45              692 Packages.gz
+ eff490cfa708567bbf600e7c81f14bff              736 Packages.xz
+ 0c62218b8c7d9fcf59b80f0d4abd6a4f              678 Packages.zst
+ b9859f3fd208f66a611d3995369767d0              239 Release
+SHA1:
+ b20492d2127bd57e78ebbde74c5d4a31831fdbdb             1502 Packages
+ a6cc5020e1f2a907379653d97d0d5fe7ff0a46af              790 Packages.bz2
+ a4f0ce33712cd5018dff8b0a61e03a8a750f044b              692 Packages.gz
+ 57462f90fafff4b71acd53fab36c1fab579dff3b              736 Packages.xz
+ 053a0073e1117fd5f9afa60417b41e4104bf6cf5              678 Packages.zst
+ 91b93ef9abf0c8a7273eb981bf5466793a916c37              239 Release
+SHA256:
+ db3d3dc6d8dac1b462335a95504bb8a123213e344dfe7d01ffaf9ffc69ef2bc7             1502 Packages
+ 59ead59791625ddf835655f53d6b702b6a8a4a7bb57d8b263ed6887bb73ceb9e              790 Packages.bz2
+ dce37ec279dc477582f1f6c18b1d8bfc5a4e255ac9723f05e0a0e98233f58bc1              692 Packages.gz
+ 8f02624813595f874358b8f6778d6fe3a63610f484a397e83804844819a69c8d              736 Packages.xz
+ a074c3c4cea36c684c3bbc998d1f8eab4007fc0ef5c626d298b1293f275fc4a8              678 Packages.zst
+ ed35bc70b111c146eb797d4a97e44f36b6493d370e9b4f7dd06b745784bcebf8              239 Release
+SHA512:
+ b727738c4306256d5739f14f4a17962457949affe376972df61e89de9a58d878e8c902d7dc831bcdc7e47d2adc342982e748841966c1704434bf7143ac284056             1502 Packages
+ fa4e25471a4f2c2f41a03c06022a08a48423d2ffe539eb109d087a13b933c99432930449248f2348900d18c514a9555372c6051093a08f18a7bb862bb8943ed2              790 Packages.bz2
+ 8b73c79d05ce1cbec07e72a50e088b6282b36a5b2908b4de5543937db0ad5645c59589a8fff5d5b9987b7f532eb23d96fe1cc6bdb15b74b752b81b2345d71222              692 Packages.gz
+ fc8011ed1726e236ddb181665b4835b92821152674e72c8ee8daece7a0678ab51883e4d4d9e300dfa11526b2afa9790d02ff6ff3d349e7215c2feb4ce5873b6b              736 Packages.xz
+ 7a6101d5a65c605218480cd6cd29c65d9d7c1130022cfc20c7afb47fd6d0e4ac915586cf579226558b147c05fd938b2736e54c161c76d844b030010a7de24bd7              678 Packages.zst
+ c0e64cc6da53187de00aa1724ff6013343ac0642bb31f299efd6f73968b54ad8ed0d206763c876268cc871239bdadada4300ef388f1849ae1e0bb66b7f904d69              239 Release
