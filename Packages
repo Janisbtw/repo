@@ -6,15 +6,15 @@ Maintainer: janis
 Installed-Size: 336
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), de.janis.glance
 Filename: ./debians/de.janis.instagramprovider_0.0.1_iphoneos-arm.deb
-Size: 18582
-MD5sum: 9869fa304eb905dc779350817eea4175
-SHA1: 4a52988496aef7c50389297b29efcf1a0892bca7
-SHA256: bfabca772854a34ebc0b75e94b3838bf6b14fece178c61b4dd17b8152057c4fd
-SHA512: effac51dbfdb74a2de076ae12cbb7d9ebe3bcc82eae0e484e4d46e03f421659f70c53432d5470f8cc8c075210154eb1cf715c886f96139aa6337a1f32b3e10b6
-Description: An awesome Orion tweak!
+Size: 18596
+MD5sum: f25d2c1089c41cc52ae958b455d5a55c
+SHA1: a7d8e6df3dc454a62c8071d895f8dcb6dd9970d9
+SHA256: 031def921bb286783d09e97f1cf77be63ebcd769539980ac8b300829ad0bc314
+SHA512: 12e5931b91defefdbf90d135c992d5d4c36019dec1efe7eddcbe077e1e013d27d08bf53fe558a486bc74bf0a0ecd7a0bb9e5a2e88ae5e50d8916a323dcf2a56e
+Description: This is a plugin for providing instagram profile pictures to Glance
 Name: instagramprovider
 Author: janis
-Depiction: https://username.github.io/repo/depictions/web/?p=de.janis.instagramprovider
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.instagramprovider
 
 Package: de.janis.instagramprovider
 Architecture: iphoneos-arm64
@@ -24,13 +24,13 @@ Maintainer: janis
 Installed-Size: 336
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), de.janis.glance
 Filename: ./debians/de.janis.instagramprovider_0.0.1_iphoneos-arm64.deb
-Size: 18624
-MD5sum: f2adf2e60a5e9e9ad68aedbdfabc36ee
-SHA1: cf8ac9cf802767067962762b1d74928110429781
-SHA256: 811c33918881bdde8137eaf1cb78dcd77e30e4b1b4678e09b8444c3a3417a4b7
-SHA512: 8049300f88b078df2c7efeba2063656db9f9440b6d174d5701e21bbc8660879d6d7773364d918a2a24ac4792a6f5c230a67acdcf8b7afa6c0d91c29ab5ead121
-Description: An awesome Orion tweak!
+Size: 18672
+MD5sum: 4309d382bb2225bc84078a33c2ca5245
+SHA1: 772a0ff55acb0b6a3d6f9ce2bde790a137572d7b
+SHA256: 00cd6c915451289360b4842f91882d4c127aa1df280a2462e83222c968dfa7a7
+SHA512: 6238a5345a59a19b05a53bb8fd2b21a60ba59219122efce310add62f1d225cac5d18b9f9308059b6c52076fbccd2b4de66990e8a3af1e9ae0b12393cf9f4abe1
+Description: This is a plugin for providing instagram profile pictures to Glance
 Name: instagramprovider
 Author: janis
-Depiction: https://username.github.io/repo/depictions/web/?p=de.janis.instagramprovider
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.instagramprovider
 
