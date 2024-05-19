@@ -70,6 +70,80 @@ Name: discordprovider
 Author: Janis
 Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
 
+Package: de.janis.discordprovider
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.discordprovider_1.1.1_iphoneos-arm.deb
+Size: 17594
+MD5sum: 7528bce3efd4151a0b504a9b3738284b
+SHA1: 2edee1daeeaa52db05c06df96bbaba8e1abb2350
+SHA256: 8494330b7e006c6cb299d21a3530416a4f2f6b3994e970868e7879b7b5a1c226
+SHA512: 5eb591e819749a499ebff901d275c992e54fdba8d0e53beac9bf68d17bcff8addea69cf69303679aaceb300c22df4d1e464991738bba186d7a33adaf28e9605e
+Description: This is a plugin for providing Discord profile pictures to Glance
+Name: discordprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
+
+Package: de.janis.discordprovider
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.discordprovider_1.1.1_iphoneos-arm64.deb
+Size: 17698
+MD5sum: 963aa2c677d6e98afe421ecf0f9908fc
+SHA1: cc8a7379a15c05f0dee1b8ea9791c538ab2e1d3d
+SHA256: 22496834fc48ee80766be0ae8ff507abf9a124b49258f5a6e36134821b598560
+SHA512: 40fcdd0feade84af36214ef649ee6df4f95e8079fc7d4055a94ddb9f99d03292c1438c1756053c03dc24ea4b964acd79eaf9f14ef2745808f31d9b6e79629ec2
+Description: This is a plugin for providing Discord profile pictures to Glance
+Name: discordprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
+
+Package: de.janis.discordprovider
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.discordprovider_1.1.2_iphoneos-arm.deb
+Size: 17610
+MD5sum: e94be7159a4a7d6ac301ed1f0eead8a6
+SHA1: 6940e5cef4af0db279e5bef3826db9ec2097486b
+SHA256: cc226e337f819ea3a2343cb468dcf304d254255c21b94b09836a9e680e2484b5
+SHA512: ccd4f1f04bcd99163fca46c542a9e9db8feb7a21ea0be126c44957d55b49130ef71d76dcd0c2e4469ed4247278cfc6ebe75d2a9f99f634c4a215e57546f3985f
+Description: This is a plugin for providing Discord profile pictures to Glance
+Tag: supports::roothide
+Name: discordprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
+
+Package: de.janis.discordprovider
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 316
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: ./debians/de.janis.discordprovider_1.1.2_iphoneos-arm64.deb
+Size: 17690
+MD5sum: c869b422cf3701d9e2f450b7e0acf27a
+SHA1: ef969852816d664e15491840e2b5dc1ebe462782
+SHA256: 19d1184885b3d87e058ff7da501e978702c82038c57066d257377de5d107ea4b
+SHA512: f932df5bad2829a180d1bcc24641ac8c24f969d80e0476d88df054949f7fe7bc88c3832062ac138124bc42493241ab97075351171cf44fa1b22bedc6b99ee7f3
+Description: This is a plugin for providing Discord profile pictures to Glance
+Tag: supports::roothide
+Name: discordprovider
+Author: Janis
+Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.discordprovider
+
 Package: de.janis.imessageprovider
 Architecture: iphoneos-arm
 Version: 1.0
