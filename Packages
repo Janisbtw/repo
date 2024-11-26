@@ -362,6 +362,40 @@ Name: instagramprovider
 Author: janis
 Depiction: https://janisbtw.github.io/repo/depictions/web/?p=de.janis.instagramprovider
 
+Package: de.janis.snapchatprovider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/de.janis.snapchatprovider_1.0_iphoneos-arm.deb
+Size: 18058
+MD5sum: a0dfc92f17fe06613ff03289a0aa5df5
+SHA1: 1e982838938473594ae73e8807ad3ac3b78d09a9
+SHA256: 0c62e85b475c333137dfb1ca382259c8fb285e5b64b79ca828c221f20d2e1d3f
+SHA512: a9963b914b6fb4150bfd1c2817f7999e2613e6b3b08a01fcef3b0b690da71cac4917260b141ab0a4374532d4caa94ea146915aed09e5ff5f418ec2081fd7f6c1
+Description: An awesome Orion tweak!
+Name: snapchatprovider
+Author: Janis
+
+Package: de.janis.snapchatprovider
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Janis
+Installed-Size: 336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/de.janis.snapchatprovider_1.0_iphoneos-arm64.deb
+Size: 18136
+MD5sum: bb46921b530054802e21b50b24a0ae45
+SHA1: 2e15a1517ec7d130d719602d40f792ec0fb336d2
+SHA256: 2df2d2a23f4d4c59edd04709c013326f0aa2c3250f34d701f32a59c996965c89
+SHA512: 84de3346b83cf14cfbda6e140a1cf06a4c47afecf572b424ada9b48901ead79c3d1cbd711d1bd90c50740e65bc59edf7b0be4dddd9bdde24865a177ece3dc4af
+Description: An awesome Orion tweak!
+Name: snapchatprovider
+Author: Janis
+
 Package: de.janis.whatsappprovider
 Architecture: iphoneos-arm
 Version: 1.0.1
